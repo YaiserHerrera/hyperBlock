@@ -8,4 +8,4 @@ Un blog increÃ­ble para el[ curso de Git y Github](https://platzi.com/cursos/g
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas pr&aacute;cticas
 * Trucos muy locos del profesor
-* Las personalidades mÃºltiples de Freddy
+* Las personalidades mÃºltiples de yaiser herrera
